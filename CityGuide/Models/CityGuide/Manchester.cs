@@ -1,12 +1,11 @@
-﻿using CityGuide.Models.Manchester;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CityGuide.Models
+namespace CityGuide.Models.CityGuide
 {
-    public class Liverpool
+    public class Manchester
     {
         public int CityId { get; set; }
         public string CityName { get; set; }
@@ -19,4 +18,5 @@ namespace CityGuide.Models
         public List<Pub> Pubs { get; set; }
 
     }
+
 }

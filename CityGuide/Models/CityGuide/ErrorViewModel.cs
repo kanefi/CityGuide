@@ -1,6 +1,6 @@
 using System;
 
-namespace CityGuide.Models
+namespace CityGuide.Models.CityGuide
 {
     public class ErrorViewModel
     {
